@@ -1,4 +1,7 @@
-﻿double TrianguloEquilátero, TrianguloIsoscele, TrianguloEscaleno;
+﻿        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
+double TrianguloEquilátero, TrianguloIsoscele, TrianguloEscaleno;
 
 Console.WriteLine("Qual a medida do primeiro lado");
 TrianguloEquilátero = double.Parse(Console.ReadLine());

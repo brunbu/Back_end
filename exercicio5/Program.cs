@@ -1,4 +1,7 @@
-﻿int quantidade;
+﻿        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
+int quantidade;
 double preco;
 Console.WriteLine("Digite o numero de maças");
 quantidade = int.Parse(Console.ReadLine());

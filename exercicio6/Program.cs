@@ -1,4 +1,7 @@
-﻿Console.Write("Digite a média do aluno: ");
+﻿        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
+Console.Write("Digite a média do aluno: ");
         double media = double.Parse(Console.ReadLine());
 
         Console.Write("Digite a frequência do aluno (em %): ");

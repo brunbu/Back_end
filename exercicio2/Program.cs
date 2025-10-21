@@ -1,4 +1,7 @@
-﻿double Pt, St;
+﻿        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
+double Pt, St;
 
 
 Console.WriteLine("Informe o total de gols do primeiro time");

@@ -1,4 +1,7 @@
-﻿double s, tg;
+﻿        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
+double s, tg;
 
 Console.WriteLine("Informe o seu Salario");
 s = double.Parse(Console.ReadLine());

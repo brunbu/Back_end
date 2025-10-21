@@ -1,5 +1,7 @@
 ﻿using System.Security.AccessControl;
-
+        Console.WriteLine("-------------------------------------------------------");
+        Console.WriteLine("                  Seja Bem Vindo");
+        Console.WriteLine("-------------------------------------------------------");
 int senha = 1234;
 
 
