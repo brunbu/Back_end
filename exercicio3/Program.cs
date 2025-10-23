@@ -1,25 +1,25 @@
 ﻿        Console.WriteLine("-------------------------------------------------------");
         Console.WriteLine("                  Seja Bem Vindo");
         Console.WriteLine("-------------------------------------------------------");
-double TrianguloEquilátero, TrianguloIsoscele, TrianguloEscaleno;
+double L1, L2, L3;
 
 Console.WriteLine("Qual a medida do primeiro lado");
-TrianguloEquilátero = double.Parse(Console.ReadLine());
+L1 = double.Parse(Console.ReadLine());
 Console.WriteLine("Qual a medida do segundo lado");
-TrianguloIsoscele = double.Parse(Console.ReadLine());
+L2 = double.Parse(Console.ReadLine());
 Console.WriteLine("Qual a medida do terceiro lado");
-TrianguloEscaleno = double.Parse(Console.ReadLine());
+L3 = double.Parse(Console.ReadLine());
 
 
-if (TrianguloEquilátero == 3)
-{
-    Console.WriteLine("Triângulo    Equilátero:    possui    os    3    lados    iguais.");
-}
-else if (TrianguloIsoscele == 2)
-{
-    Console.WriteLine("Triângulo    Isóscele:    possui    2    lados    iguais.     ");
-}
-else if (TrianguloEscaleno == 3)
-{
-    Console.WriteLine("Triângulo    Escaleno:    possui    3    lados    diferentes.");
-}
+if (L1 == L2 && L3 == L1)
+    {
+        Console.WriteLine("O Triângulo é Equilatero");
+    }
+    else if ((L1 == L2 && L1 != L3) || (L1 == L3 && L1 != L2) || (L2 == L3 && L2 != L1))
+    {
+        Console.WriteLine("O Triângulo é Isóceles");
+    }
+    else
+    {
+        Console.WriteLine("O Triângulo é Escaleno");
+    }

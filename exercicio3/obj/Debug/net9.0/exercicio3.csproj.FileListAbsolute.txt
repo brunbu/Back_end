@@ -12,3 +12,4 @@ C:\Users\42639848895\Desktop\BackEndTorloni\exercicio3\obj\Debug\net9.0\refint\e
 C:\Users\42639848895\Desktop\BackEndTorloni\exercicio3\obj\Debug\net9.0\exercicio3.pdb
 C:\Users\42639848895\Desktop\BackEndTorloni\exercicio3\obj\Debug\net9.0\exercicio3.genruntimeconfig.cache
 C:\Users\42639848895\Desktop\BackEndTorloni\exercicio3\obj\Debug\net9.0\ref\exercicio3.dll
+C:\Users\42639848895\Desktop\BackEndTorloni\exercicio3\obj\Debug\net9.0\exercicio3.sourcelink.json
