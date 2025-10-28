@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgenciaBancaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1dbcdd7a7983b16bc9b15476f8888e33995f9b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d52dd7e415bc921e2fd90154a20cb41936f2a1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgenciaBancaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgenciaBancaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
