@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\PrimeiraClasse\\PrimeiraClasse.csproj",
-      "projectName": "PrimeiraClasse",
-      "projectPath": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\PrimeiraClasse\\PrimeiraClasse.csproj",
+      "projectUniqueName": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\Pilares\\TheBasics\\TheBasics.csproj",
+      "projectName": "TheBasics",
+      "projectPath": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\Pilares\\TheBasics\\TheBasics.csproj",
       "packagesPath": "C:\\Users\\42639848895\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\PrimeiraClasse\\obj\\",
+      "outputPath": "C:\\Users\\42639848895\\Desktop\\BackEndTorloni\\POO\\Pilares\\TheBasics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\42639848895\\AppData\\Roaming\\NuGet\\NuGet.Config"
