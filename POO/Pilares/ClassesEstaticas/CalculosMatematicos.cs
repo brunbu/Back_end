@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace ClassesEstaticas
 {
@@ -21,6 +17,11 @@ namespace ClassesEstaticas
         }
         public static float Dividir (float a , float b)
         {
+            if (b == 0)
+            {
+                System.Console.WriteLine("Não é possivel dividir por zero");
+        
+            }
             return a / b;
         }
     }
