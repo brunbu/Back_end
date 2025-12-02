@@ -1,0 +1,18 @@
+@model List<CadAluno.Models.Frutas>
+
+<h1>Pagina Frutas</h1>
+
+<p>Lista De Frutas</p>
+
+@foreach (var Fruta in Model)
+{
+    <p>
+        Id:   @Fruta.Id   <br>
+        Nome: @Fruta.Nome <br>
+        Cor:  @Fruta.Cor  <br>
+        Categoria: @Fruta.Categoria <br>
+    </p>
+}
+
+<p>Frutas1</p>
+<p>Frutas2</p>
