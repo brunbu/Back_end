@@ -27,11 +27,11 @@ namespace CadAluno.Controllers
         }
         public IActionResult FrutasTropicais()
         {
-            return View(Fruta);
+            return View();
         }
         public IActionResult FrutasCitricas()
         {
-            return View(Fruta);
+            return View();
         }
 
         public IActionResult Create()
